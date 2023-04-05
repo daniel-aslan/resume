@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+hr {
+    background-color: rgb(16, 14, 143);
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+    padding: 5px;
+}
+
+<img src= "static/headshot.png" >
