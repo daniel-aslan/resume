@@ -7,8 +7,14 @@ hr {
 }
 
 img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
+    border: 1px solid #0f0000cb;
+    border-radius: 100%;
     width: 150px;
     padding: 5px;
+}
+
+
+/*******************************************************class selectors******************************************/
+.emails:hover {
+    color: goldenrod;
 }
